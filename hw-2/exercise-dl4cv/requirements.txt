@@ -1,0 +1,7 @@
+# python=3.9
+numpy
+matplotlib
+torch=1.9
+torchaudio
+torchvision
+tqdm

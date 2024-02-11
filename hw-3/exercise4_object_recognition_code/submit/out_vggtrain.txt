@@ -1,0 +1,475 @@
+RUNDIR: runs/43322
+[*] PARAM path: runs/43322/params.json
+[INFO] train set loaded, 45000 samples in total.
+[INFO] val set loaded, 5000 samples in total.
+  0%|                                                                            | 0/50 [00:00<?, ?it/s][Step 99/ Epoch 0]  Loss: 1.8899  
+acc: 29.52
+[*] best model saved
+
+[Step 199/ Epoch 0]  Loss: 1.7487  
+acc: 34.04
+[*] best model saved
+
+[Step 299/ Epoch 0]  Loss: 1.8021  
+acc: 37.44
+[*] best model saved
+
+  2%|█▎                                                               | 1/50 [03:41<3:01:13, 221.92s/it][Step 47/ Epoch 1]  Loss: 1.6234  
+acc: 39.68
+[*] best model saved
+
+[Step 147/ Epoch 1]  Loss: 1.5891  
+acc: 42.44
+[*] best model saved
+
+[Step 247/ Epoch 1]  Loss: 1.5845  
+acc: 44.86
+[*] best model saved
+
+[Step 347/ Epoch 1]  Loss: 1.3939  
+acc: 46.02
+[*] best model saved
+
+  4%|██▌                                                              | 2/50 [07:35<3:03:05, 228.85s/it][Step 95/ Epoch 2]  Loss: 1.2809  
+acc: 49.72
+[*] best model saved
+
+[Step 195/ Epoch 2]  Loss: 1.3339  
+acc: 49.24
+[Step 295/ Epoch 2]  Loss: 1.5001  
+acc: 50.84
+[*] best model saved
+
+  6%|███▉                                                             | 3/50 [11:11<2:54:47, 223.14s/it][Step 43/ Epoch 3]  Loss: 1.4621  
+acc: 50.86
+[*] best model saved
+
+[Step 143/ Epoch 3]  Loss: 1.2989  
+acc: 53.12
+[*] best model saved
+
+[Step 243/ Epoch 3]  Loss: 1.2051  
+acc: 55.08
+[*] best model saved
+
+[Step 343/ Epoch 3]  Loss: 1.2437  
+acc: 56.1
+[*] best model saved
+
+  8%|█████▏                                                           | 4/50 [15:06<2:54:24, 227.48s/it][Step 91/ Epoch 4]  Loss: 1.3247  
+acc: 56.78
+[*] best model saved
+
+[Step 191/ Epoch 4]  Loss: 1.1721  
+acc: 57.96
+[*] best model saved
+
+[Step 291/ Epoch 4]  Loss: 1.3335  
+acc: 56.78
+ 10%|██████▌                                                          | 5/50 [18:43<2:47:45, 223.69s/it][Step 39/ Epoch 5]  Loss: 1.0755  
+acc: 57.66
+[Step 139/ Epoch 5]  Loss: 1.1291  
+acc: 59.4
+[*] best model saved
+
+[Step 239/ Epoch 5]  Loss: 1.2036  
+acc: 59.84
+[*] best model saved
+
+[Step 339/ Epoch 5]  Loss: 1.1496  
+acc: 61.64
+[*] best model saved
+
+ 12%|███████▊                                                         | 6/50 [22:37<2:46:36, 227.18s/it][Step 87/ Epoch 6]  Loss: 1.0295  
+acc: 62.22
+[*] best model saved
+
+[Step 187/ Epoch 6]  Loss: 1.0963  
+acc: 60.96
+[Step 287/ Epoch 6]  Loss: 1.3643  
+acc: 62.06
+ 14%|█████████                                                        | 7/50 [26:13<2:40:12, 223.56s/it][Step 35/ Epoch 7]  Loss: 1.1079  
+acc: 63.28
+[*] best model saved
+
+[Step 135/ Epoch 7]  Loss: 1.0807  
+acc: 62.36
+[Step 235/ Epoch 7]  Loss: 1.0149  
+acc: 62.96
+[Step 335/ Epoch 7]  Loss: 1.0506  
+acc: 65.32
+[*] best model saved
+
+ 16%|██████████▍                                                      | 8/50 [30:08<2:39:10, 227.40s/it][Step 83/ Epoch 8]  Loss: 0.9346  
+acc: 65.36
+[*] best model saved
+
+[Step 183/ Epoch 8]  Loss: 0.9349  
+acc: 65.74
+[*] best model saved
+
+[Step 283/ Epoch 8]  Loss: 1.0195  
+acc: 67.12
+[*] best model saved
+
+ 18%|███████████▋                                                     | 9/50 [33:44<2:32:56, 223.82s/it][Step 31/ Epoch 9]  Loss: 0.9286  
+acc: 67.14
+[*] best model saved
+
+[Step 131/ Epoch 9]  Loss: 0.9070  
+acc: 66.74
+[Step 231/ Epoch 9]  Loss: 1.0801  
+acc: 67.8
+[*] best model saved
+
+[Step 331/ Epoch 9]  Loss: 0.8157  
+acc: 68.14
+[*] best model saved
+
+ 20%|████████████▊                                                   | 10/50 [37:38<2:31:11, 226.79s/it][Step 79/ Epoch 10]  Loss: 0.9670  
+acc: 68.84
+[*] best model saved
+
+[Step 179/ Epoch 10]  Loss: 0.8806  
+acc: 68.48
+[Step 279/ Epoch 10]  Loss: 1.0018  
+acc: 68.34
+ 22%|██████████████                                                  | 11/50 [41:10<2:24:36, 222.47s/it][Step 27/ Epoch 11]  Loss: 0.8564  
+acc: 69.94
+[*] best model saved
+
+[Step 127/ Epoch 11]  Loss: 0.8201  
+acc: 69.58
+[Step 227/ Epoch 11]  Loss: 0.7956  
+acc: 69.98
+[*] best model saved
+
+[Step 327/ Epoch 11]  Loss: 0.8981  
+acc: 70.06
+[*] best model saved
+
+ 24%|███████████████▎                                                | 12/50 [45:01<2:22:23, 224.84s/it][Step 75/ Epoch 12]  Loss: 0.8999  
+acc: 69.76
+[Step 175/ Epoch 12]  Loss: 0.9353  
+acc: 71.1
+[*] best model saved
+
+[Step 275/ Epoch 12]  Loss: 0.8030  
+acc: 70.04
+ 26%|████████████████▋                                               | 13/50 [48:51<2:19:38, 226.45s/it][Step 23/ Epoch 13]  Loss: 0.8889  
+acc: 71.28
+[*] best model saved
+
+[Step 123/ Epoch 13]  Loss: 0.9241  
+acc: 72.52
+[*] best model saved
+
+[Step 223/ Epoch 13]  Loss: 0.7617  
+acc: 71.96
+[Step 323/ Epoch 13]  Loss: 0.9227  
+acc: 71.96
+ 28%|█████████████████▉                                              | 14/50 [52:51<2:18:20, 230.58s/it][Step 71/ Epoch 14]  Loss: 0.8318  
+acc: 72.08
+[Step 171/ Epoch 14]  Loss: 0.8244  
+acc: 71.44
+[Step 271/ Epoch 14]  Loss: 0.7792  
+acc: 73.3
+[*] best model saved
+
+ 30%|███████████████████▏                                            | 15/50 [56:27<2:11:58, 226.25s/it][Step 19/ Epoch 15]  Loss: 0.7909  
+acc: 75.02
+[*] best model saved
+
+[Step 119/ Epoch 15]  Loss: 0.8917  
+acc: 73.7
+[Step 219/ Epoch 15]  Loss: 0.8510  
+acc: 72.78
+[Step 319/ Epoch 15]  Loss: 0.9110  
+acc: 74.76
+ 32%|███████████████████▊                                          | 16/50 [1:00:25<2:10:07, 229.63s/it][Step 67/ Epoch 16]  Loss: 0.8559  
+acc: 74.96
+[Step 167/ Epoch 16]  Loss: 0.7693  
+acc: 74.26
+[Step 267/ Epoch 16]  Loss: 0.6988  
+acc: 74.88
+ 34%|█████████████████████                                         | 17/50 [1:04:04<2:04:34, 226.51s/it][Step 15/ Epoch 17]  Loss: 0.8333  
+acc: 75.14
+[*] best model saved
+
+[Step 115/ Epoch 17]  Loss: 0.6760  
+acc: 74.92
+[Step 215/ Epoch 17]  Loss: 0.6946  
+acc: 75.14
+[Step 315/ Epoch 17]  Loss: 0.8144  
+acc: 75.34
+[*] best model saved
+
+ 36%|██████████████████████▎                                       | 18/50 [1:08:00<2:02:17, 229.29s/it][Step 63/ Epoch 18]  Loss: 0.7739  
+acc: 76.28
+[*] best model saved
+
+[Step 163/ Epoch 18]  Loss: 0.7626  
+acc: 75.54
+[Step 263/ Epoch 18]  Loss: 0.8139  
+acc: 76.44
+[*] best model saved
+
+ 38%|███████████████████████▌                                      | 19/50 [1:11:42<1:57:24, 227.23s/it][Step 11/ Epoch 19]  Loss: 0.5921  
+acc: 76.82
+[*] best model saved
+
+[Step 111/ Epoch 19]  Loss: 0.7997  
+acc: 74.48
+[Step 211/ Epoch 19]  Loss: 0.7326  
+acc: 77.24
+[*] best model saved
+
+[Step 311/ Epoch 19]  Loss: 0.7478  
+acc: 77.18
+ 40%|████████████████████████▊                                     | 20/50 [1:15:37<1:54:49, 229.64s/it][Step 59/ Epoch 20]  Loss: 0.6385  
+acc: 76.8
+[Step 159/ Epoch 20]  Loss: 0.5640  
+acc: 77.54
+[*] best model saved
+
+[Step 259/ Epoch 20]  Loss: 0.7684  
+acc: 74.7
+ 42%|██████████████████████████                                    | 21/50 [1:19:16<1:49:21, 226.26s/it][Step 7/ Epoch 21]  Loss: 0.7073  
+acc: 77.2
+[Step 107/ Epoch 21]  Loss: 0.6286  
+acc: 77.06
+[Step 207/ Epoch 21]  Loss: 0.5664  
+acc: 78.38
+[*] best model saved
+
+[Step 307/ Epoch 21]  Loss: 0.6416  
+acc: 77.34
+ 44%|███████████████████████████▎                                  | 22/50 [1:23:12<1:47:01, 229.32s/it][Step 55/ Epoch 22]  Loss: 0.5918  
+acc: 77.72
+[Step 155/ Epoch 22]  Loss: 0.5809  
+acc: 77.72
+[Step 255/ Epoch 22]  Loss: 0.8000  
+acc: 77.54
+ 46%|████████████████████████████▌                                 | 23/50 [1:26:48<1:41:21, 225.25s/it][Step 3/ Epoch 23]  Loss: 0.7192  
+acc: 77.94
+[Step 103/ Epoch 23]  Loss: 0.6700  
+acc: 77.94
+[Step 203/ Epoch 23]  Loss: 0.5785  
+acc: 78.68
+[*] best model saved
+
+[Step 303/ Epoch 23]  Loss: 0.8291  
+acc: 78.18
+ 48%|█████████████████████████████▊                                | 24/50 [1:30:43<1:38:51, 228.13s/it][Step 51/ Epoch 24]  Loss: 0.6425  
+acc: 78.36
+[Step 151/ Epoch 24]  Loss: 0.7820  
+acc: 78.82
+[*] best model saved
+
+[Step 251/ Epoch 24]  Loss: 0.6665  
+acc: 77.44
+[Step 351/ Epoch 24]  Loss: 0.8502  
+acc: 77.46
+ 50%|███████████████████████████████                               | 25/50 [1:34:41<1:36:16, 231.07s/it][Step 99/ Epoch 25]  Loss: 0.5696  
+acc: 78.62
+[Step 199/ Epoch 25]  Loss: 0.5131  
+acc: 78.68
+[Step 299/ Epoch 25]  Loss: 0.5969  
+acc: 77.98
+ 52%|████████████████████████████████▏                             | 26/50 [1:38:18<1:30:45, 226.91s/it][Step 47/ Epoch 26]  Loss: 0.8041  
+acc: 79.52
+[*] best model saved
+
+[Step 147/ Epoch 26]  Loss: 0.8189  
+acc: 77.94
+[Step 247/ Epoch 26]  Loss: 0.5664  
+acc: 78.16
+[Step 347/ Epoch 26]  Loss: 0.6072  
+acc: 79.32
+ 54%|█████████████████████████████████▍                            | 27/50 [1:42:13<1:27:59, 229.53s/it][Step 95/ Epoch 27]  Loss: 0.5229  
+acc: 80.36
+[*] best model saved
+
+[Step 195/ Epoch 27]  Loss: 0.5509  
+acc: 79.52
+[Step 295/ Epoch 27]  Loss: 0.5063  
+acc: 79.8
+ 56%|██████████████████████████████████▋                           | 28/50 [1:45:56<1:23:20, 227.30s/it][Step 43/ Epoch 28]  Loss: 0.4704  
+acc: 79.78
+[Step 143/ Epoch 28]  Loss: 0.5517  
+acc: 80.24
+[Step 243/ Epoch 28]  Loss: 0.5977  
+acc: 79.38
+[Step 343/ Epoch 28]  Loss: 0.6010  
+acc: 79.52
+ 58%|███████████████████████████████████▉                          | 29/50 [1:50:34<1:24:56, 242.68s/it][Step 91/ Epoch 29]  Loss: 0.5827  
+acc: 79.44
+[Step 191/ Epoch 29]  Loss: 0.4975  
+acc: 80.76
+[*] best model saved
+
+[Step 291/ Epoch 29]  Loss: 0.5469  
+acc: 79.78
+ 60%|█████████████████████████████████████▏                        | 30/50 [1:56:32<1:32:27, 277.38s/it][Step 39/ Epoch 30]  Loss: 0.4262  
+acc: 80.34
+[Step 139/ Epoch 30]  Loss: 0.6149  
+acc: 79.88
+[Step 239/ Epoch 30]  Loss: 0.6971  
+acc: 80.56
+[Step 339/ Epoch 30]  Loss: 0.5126  
+acc: 80.82
+[*] best model saved
+
+ 62%|██████████████████████████████████████▍                       | 31/50 [2:02:51<1:37:29, 307.86s/it][Step 87/ Epoch 31]  Loss: 0.4876  
+acc: 81.04
+[*] best model saved
+
+[Step 187/ Epoch 31]  Loss: 0.3405  
+acc: 80.6
+[Step 287/ Epoch 31]  Loss: 0.5170  
+acc: 80.18
+ 64%|███████████████████████████████████████▋                      | 32/50 [2:08:43<1:36:16, 320.94s/it][Step 35/ Epoch 32]  Loss: 0.4761  
+acc: 79.88
+[Step 135/ Epoch 32]  Loss: 0.4236  
+acc: 80.42
+[Step 235/ Epoch 32]  Loss: 0.4487  
+acc: 80.76
+[Step 335/ Epoch 32]  Loss: 0.4412  
+acc: 81.68
+[*] best model saved
+
+ 66%|████████████████████████████████████████▉                     | 33/50 [2:12:44<1:24:09, 297.01s/it][Step 83/ Epoch 33]  Loss: 0.3888  
+acc: 81.12
+[Step 183/ Epoch 33]  Loss: 0.6066  
+acc: 81.54
+[Step 283/ Epoch 33]  Loss: 0.5261  
+acc: 81.02
+ 68%|██████████████████████████████████████████▏                   | 34/50 [2:16:28<1:13:18, 274.93s/it][Step 31/ Epoch 34]  Loss: 0.5737  
+acc: 80.84
+[Step 131/ Epoch 34]  Loss: 0.4763  
+acc: 81.18
+[Step 231/ Epoch 34]  Loss: 0.4317  
+acc: 80.86
+[Step 331/ Epoch 34]  Loss: 0.4495  
+acc: 82.32
+[*] best model saved
+
+ 70%|███████████████████████████████████████████▍                  | 35/50 [2:20:30<1:06:16, 265.08s/it][Step 79/ Epoch 35]  Loss: 0.5687  
+acc: 81.5
+[Step 179/ Epoch 35]  Loss: 0.4389  
+acc: 81.02
+[Step 279/ Epoch 35]  Loss: 0.3949  
+acc: 80.8
+ 72%|██████████████████████████████████████████████                  | 36/50 [2:24:15<59:04, 253.19s/it][Step 27/ Epoch 36]  Loss: 0.3732  
+acc: 81.54
+[Step 127/ Epoch 36]  Loss: 0.3060  
+acc: 82.28
+[Step 227/ Epoch 36]  Loss: 0.3577  
+acc: 82.2
+[Step 327/ Epoch 36]  Loss: 0.6698  
+acc: 81.28
+ 74%|███████████████████████████████████████████████▎                | 37/50 [2:28:17<54:07, 249.84s/it][Step 75/ Epoch 37]  Loss: 0.4086  
+acc: 81.26
+[Step 175/ Epoch 37]  Loss: 0.4421  
+acc: 81.68
+[Step 275/ Epoch 37]  Loss: 0.3525  
+acc: 81.5
+ 76%|████████████████████████████████████████████████▋               | 38/50 [2:31:59<48:18, 241.58s/it][Step 23/ Epoch 38]  Loss: 0.4371  
+acc: 81.04
+[Step 123/ Epoch 38]  Loss: 0.4111  
+acc: 81.32
+[Step 223/ Epoch 38]  Loss: 0.3692  
+acc: 82.0
+[Step 323/ Epoch 38]  Loss: 0.4206  
+acc: 81.74
+ 78%|█████████████████████████████████████████████████▉              | 39/50 [2:36:01<44:16, 241.47s/it][Step 71/ Epoch 39]  Loss: 0.4803  
+acc: 82.16
+[Step 171/ Epoch 39]  Loss: 0.4782  
+acc: 82.38
+[*] best model saved
+
+[Step 271/ Epoch 39]  Loss: 0.5628  
+acc: 81.3
+ 80%|███████████████████████████████████████████████████▏            | 40/50 [2:40:00<40:09, 240.91s/it][Step 19/ Epoch 40]  Loss: 0.3783  
+acc: 82.72
+[*] best model saved
+
+[Step 119/ Epoch 40]  Loss: 0.4099  
+acc: 82.28
+[Step 219/ Epoch 40]  Loss: 0.3116  
+acc: 82.38
+[Step 319/ Epoch 40]  Loss: 0.3037  
+acc: 81.94
+ 82%|████████████████████████████████████████████████████▍           | 41/50 [2:44:12<36:38, 244.24s/it][Step 67/ Epoch 41]  Loss: 0.2812  
+acc: 82.56
+[Step 167/ Epoch 41]  Loss: 0.5547  
+acc: 82.36
+[Step 267/ Epoch 41]  Loss: 0.5461  
+acc: 82.52
+ 84%|█████████████████████████████████████████████████████▊          | 42/50 [2:48:05<32:05, 240.68s/it][Step 15/ Epoch 42]  Loss: 0.3263  
+acc: 81.9
+[Step 115/ Epoch 42]  Loss: 0.3669  
+acc: 82.58
+[Step 215/ Epoch 42]  Loss: 0.3734  
+acc: 82.26
+[Step 315/ Epoch 42]  Loss: 0.3262  
+acc: 82.94
+[*] best model saved
+
+ 86%|███████████████████████████████████████████████████████         | 43/50 [2:52:09<28:13, 241.89s/it][Step 63/ Epoch 43]  Loss: 0.3630  
+acc: 82.46
+[Step 163/ Epoch 43]  Loss: 0.2636  
+acc: 82.24
+[Step 263/ Epoch 43]  Loss: 0.3838  
+acc: 82.7
+ 88%|████████████████████████████████████████████████████████▎       | 44/50 [2:55:50<23:32, 235.47s/it][Step 11/ Epoch 44]  Loss: 0.3890  
+acc: 82.26
+[Step 111/ Epoch 44]  Loss: 0.3723  
+acc: 82.48
+[Step 211/ Epoch 44]  Loss: 0.3643  
+acc: 81.94
+[Step 311/ Epoch 44]  Loss: 0.5185  
+acc: 81.7
+ 90%|█████████████████████████████████████████████████████████▌      | 45/50 [3:00:16<20:22, 244.57s/it][Step 59/ Epoch 45]  Loss: 0.3211  
+acc: 82.86
+[Step 159/ Epoch 45]  Loss: 0.4127  
+acc: 82.14
+[Step 259/ Epoch 45]  Loss: 0.2512  
+acc: 82.52
+ 92%|██████████████████████████████████████████████████████████▉     | 46/50 [3:04:04<15:58, 239.62s/it][Step 7/ Epoch 46]  Loss: 0.3548  
+acc: 82.78
+[Step 107/ Epoch 46]  Loss: 0.3756  
+acc: 82.82
+[Step 207/ Epoch 46]  Loss: 0.3308  
+acc: 82.12
+[Step 307/ Epoch 46]  Loss: 0.4402  
+acc: 83.18
+[*] best model saved
+
+ 94%|████████████████████████████████████████████████████████████▏   | 47/50 [3:08:03<11:59, 239.68s/it][Step 55/ Epoch 47]  Loss: 0.2893  
+acc: 83.34
+[*] best model saved
+
+[Step 155/ Epoch 47]  Loss: 0.4071  
+acc: 83.58
+[*] best model saved
+
+[Step 255/ Epoch 47]  Loss: 0.3900  
+acc: 82.68
+ 96%|█████████████████████████████████████████████████████████████▍  | 48/50 [3:11:44<07:48, 234.04s/it][Step 3/ Epoch 48]  Loss: 0.3020  
+acc: 82.24
+[Step 103/ Epoch 48]  Loss: 0.2678  
+acc: 82.44
+[Step 203/ Epoch 48]  Loss: 0.3440  
+acc: 83.28
+[Step 303/ Epoch 48]  Loss: 0.2832  
+acc: 82.74
+ 98%|██████████████████████████████████████████████████████████████▋ | 49/50 [3:15:48<03:56, 236.84s/it][Step 51/ Epoch 49]  Loss: 0.3501  
+acc: 82.88
+[Step 151/ Epoch 49]  Loss: 0.3577  
+acc: 83.0
+[Step 251/ Epoch 49]  Loss: 0.3783  
+acc: 83.08
+[Step 351/ Epoch 49]  Loss: 0.3925  
+acc: 83.16
+100%|████████████████████████████████████████████████████████████████| 50/50 [3:19:59<00:00, 239.99s/it]

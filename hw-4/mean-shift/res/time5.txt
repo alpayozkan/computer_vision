@@ -1,0 +1,1 @@
+Elapsed time for mean-shift: 544.0714576244354

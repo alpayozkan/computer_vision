@@ -1,0 +1,2 @@
+[INFO] test set loaded, 10000 samples in total.
+test accuracy: 82.61

@@ -1,0 +1,8 @@
+*/*.pptx
+**/*.db
+**/*.pyc
+**/*.DS_Store
+**/data/**
+**/*.pkl
+**/*.tar
+**/*.zip

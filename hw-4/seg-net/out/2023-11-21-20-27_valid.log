@@ -1,0 +1,5 @@
+2023-11-21 20:27:04,203 Namespace(frequent=10, gpu=False, num_workers=1, out_dir='out')
+2023-11-21 20:27:04,215 => loading model from out/model_best.pth.tar
+2023-11-21 20:27:04,238 => load 200 samples
+2023-11-21 20:27:07,144 Test: [0/200]	Time 2.905 (2.905)	Loss 0.0609 (0.0609)
+2023-11-21 20:27:07,650 Test: [10/200]	Time 0.042 (0.310)	Loss 0.0103 (0.0516)

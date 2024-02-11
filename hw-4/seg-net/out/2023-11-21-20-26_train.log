@@ -1,0 +1,4 @@
+2023-11-21 20:26:44,680 Namespace(eval_interval=1, frequent=10, gpu=False, num_workers=4, out_dir='out')
+2023-11-21 20:26:45,175 => load 200 samples
+2023-11-21 20:26:45,177 => load 200 samples
+2023-11-21 20:26:50,710 Epoch: [0][0/200]	Time 5.532s (5.532s)	Speed 5.8 samples/s	Data 4.489s (4.489s)	Loss 2.53597 (2.53597)
